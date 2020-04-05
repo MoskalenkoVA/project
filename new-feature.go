@@ -1,1 +1,1 @@
-center
+some content
